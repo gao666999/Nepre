@@ -14,8 +14,8 @@ Some explanation about the file contained :
 * EnergyForStandard.py is a program used to calculate the standard structure's energy.
 * Nepre_AA400 return the sigle structure' energy include energy and energy400.
 * Nepre_chain400.py return the complex structure'energy include energy and energt400.
-* Procecode contain some program about how to create energy matrix and process date.
-A statistic of radius of different kind of amino acid have been done by us. We use gaussian distribute function to
+* Procecode contain some program about how to create energy matrix and process date. 
+* A statistic of radius of different kind of amino acid have been done by us. We use gaussian distribute function to
 fit them and use the gaussian mean data as the default vlaue. See details in mean_radius.txt.
 
 For single protein potential energy calculate, go to linux shell and type:
